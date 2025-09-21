@@ -1,0 +1,26 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.ckpt
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
